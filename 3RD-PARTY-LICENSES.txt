@@ -1,0 +1,16 @@
+
+This is a list of the third party components used to compile the project.
+
+
+Ardor Public Blockchain Platform:
+
+Ardor Public Blockchain Platform https://ardorplatform.org/ is licensed
+under Jelurida Public License 1.1:
+https://www.jelurida.com/jpl 
+
+Json-simple:
+
+Json-simple https://code.google.com/p/json-simple/ is licensed
+under the Apache License 2.0:
+http://www.apache.org/licenses/LICENSE-2.0
+
